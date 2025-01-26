@@ -26,20 +26,13 @@ Este projeto foi desenvolvido para praticar conceitos de **Programação Orienta
    git clone git@github.com:DarllysonS/bookstore.git
    ```
 
-2. **Instale as Dependências:**:
+2. **Execute o Projeto:**:
 
-   Navegue até o diretório do projeto clonado e instale as dependências (caso haja algum package.json no repositório):
+   Navegue até o diretório do projeto clonado e execute.
+   O projeto não tem interface gráfica, sendo executado diretamente no terminal com o seguinte comando:
 
    ```bash
    cd bookstore
-   npm install
-   ```
-
-3. **Execute o Projeto:**:
-
-   O projeto não tem interface gráfica, sendo executado diretamente no terminal. Para rodar o projeto, execute o seguinte comando:
-
-   ```bash
    npm index.js
    ```
 
